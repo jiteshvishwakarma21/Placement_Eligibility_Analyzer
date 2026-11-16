@@ -1,0 +1,4 @@
+job_id,company,role,programme,min_cgpa,required_skills
+J101,TCS,Python Developer,MCA,7.0,Python;SQL;FastAPI
+J102,Infosys,Web Developer,BCA,6.5,HTML;CSS;JavaScript
+J103,Wipro,Backend Developer,MCA,7.5,Python;SQL

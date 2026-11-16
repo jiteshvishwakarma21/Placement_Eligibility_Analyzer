@@ -1,0 +1,6 @@
+student_id,name,programme,cgpa,skills
+101,Rahul,MCA,8.5,Python;SQL;FastAPI
+102,Priya,MCA,7.8,Python;SQL
+103,Aman,MCA,6.5,Python;SQL;FastAPI
+104,Neha,MCA,9.1,Python;SQL;FastAPI;HTML
+105,Rohan,BCA,7.2,Java;HTML;CSS

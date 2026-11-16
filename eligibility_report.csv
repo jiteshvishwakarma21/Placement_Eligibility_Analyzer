@@ -1,0 +1,16 @@
+Student ID,Student Name,Company,Job Role,Skill Match (%),Matched Skills,Missing Skills,Eligibility Status,Unmet Criteria
+101,Rahul,TCS,Python Developer,100.0,fastapi; python; sql,,MEETS CRITERIA,None
+101,Rahul,Infosys,Web Developer,0.0,,css; html; javascript,DOES NOT MEET CRITERIA,"Programme does not match; Missing required skills: css, html, javascript"
+101,Rahul,Wipro,Backend Developer,100.0,python; sql,,MEETS CRITERIA,None
+102,Priya,TCS,Python Developer,66.67,python; sql,fastapi,DOES NOT MEET CRITERIA,Missing required skills: fastapi
+102,Priya,Infosys,Web Developer,0.0,,css; html; javascript,DOES NOT MEET CRITERIA,"Programme does not match; Missing required skills: css, html, javascript"
+102,Priya,Wipro,Backend Developer,100.0,python; sql,,MEETS CRITERIA,None
+103,Aman,TCS,Python Developer,100.0,fastapi; python; sql,,DOES NOT MEET CRITERIA,CGPA below minimum requirement
+103,Aman,Infosys,Web Developer,0.0,,css; html; javascript,DOES NOT MEET CRITERIA,"Programme does not match; Missing required skills: css, html, javascript"
+103,Aman,Wipro,Backend Developer,100.0,python; sql,,DOES NOT MEET CRITERIA,CGPA below minimum requirement
+104,Neha,TCS,Python Developer,100.0,fastapi; python; sql,,MEETS CRITERIA,None
+104,Neha,Infosys,Web Developer,33.33,html,css; javascript,DOES NOT MEET CRITERIA,"Programme does not match; Missing required skills: css, javascript"
+104,Neha,Wipro,Backend Developer,100.0,python; sql,,MEETS CRITERIA,None
+105,Rohan,TCS,Python Developer,0.0,,fastapi; python; sql,DOES NOT MEET CRITERIA,"Programme does not match; Missing required skills: fastapi, python, sql"
+105,Rohan,Infosys,Web Developer,66.67,css; html,javascript,DOES NOT MEET CRITERIA,Missing required skills: javascript
+105,Rohan,Wipro,Backend Developer,0.0,,python; sql,DOES NOT MEET CRITERIA,"Programme does not match; CGPA below minimum requirement; Missing required skills: python, sql"
